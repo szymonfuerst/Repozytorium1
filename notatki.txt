@@ -1,4 +1,4 @@
-dupa
+
 
 =====ROZDZIAL 1=====
 Git jest system kontroli wersji 
