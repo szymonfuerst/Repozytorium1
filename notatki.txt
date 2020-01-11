@@ -1,1 +1,8 @@
 dupa
+
+=====ROZDZIAL 1=====
+Git jest system kontroli wersji 
+pozwala na zdalne pracowanie z dokumentami
+oraz kodem.
+
+git init - inicjalizacja repozytorium
